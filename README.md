@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Liedson Ribeiro mais conhecido como Liedson!
 - 🔭 Atualmente trabalho como freelancer!
-- 📫 Me Contate No E-Mail: contatoliedsonoficial@gmail.com
+- 📫 Me contate no E-Mail: sr.liedsonloco@gmail.com
 - 😄 Pronomes: ele-dele.
 - ✅ Front End Developer
 <div align="center">
